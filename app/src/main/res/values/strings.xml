@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HappyrBirthday</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_gift_title">請選擇一個禮物</string>
+    <string name="tv_dialog_title">您的生日禮物！</string>
+</resources>
